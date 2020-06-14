@@ -1,4 +1,4 @@
-6.0001_Pset-2
+# 6.0001_Pset-2
 Hangman Game
  
 To Create the Age old game of Hangman using Python
